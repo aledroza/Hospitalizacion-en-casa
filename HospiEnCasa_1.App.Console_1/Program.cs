@@ -9,7 +9,7 @@ namespace HospiEnCasa_1.App.Console_1
         private static IRepositorioPersona _repoPersona = new RepositorioPersona(new Persistencia_1.AppContext());
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World Entity Framework!");
+            Console.WriteLine("Hello World Entity Framework !Como tais!");
             //AddPersona();
             BuscarPersona(1);
         }
