@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Dominio_1\\HospiEnCasa_1.App.Dominio_1.csproj": {}
+  },
+  "projects": {
+    "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Dominio_1\\HospiEnCasa_1.App.Dominio_1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Dominio_1\\HospiEnCasa_1.App.Dominio_1.csproj",
+        "projectName": "HospiEnCasa_1.App.Dominio_1",
+        "projectPath": "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Dominio_1\\HospiEnCasa_1.App.Dominio_1.csproj",
+        "packagesPath": "C:\\Users\\aledroza chela\\.nuget\\packages\\",
+        "outputPath": "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Dominio_1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aledroza chela\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
