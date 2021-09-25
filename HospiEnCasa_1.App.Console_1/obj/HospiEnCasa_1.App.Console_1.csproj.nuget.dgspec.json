@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Console_1\\HospiEnCasa_1.App.Console_1.csproj": {}
+    "D:\\clone\\Hospitalizacion-en-casa\\HospiEnCasa_1.App.Console_1\\HospiEnCasa_1.App.Console_1.csproj": {}
   },
   "projects": {
-    "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Console_1\\HospiEnCasa_1.App.Console_1.csproj": {
+    "D:\\clone\\Hospitalizacion-en-casa\\HospiEnCasa_1.App.Console_1\\HospiEnCasa_1.App.Console_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Console_1\\HospiEnCasa_1.App.Console_1.csproj",
+        "projectUniqueName": "D:\\clone\\Hospitalizacion-en-casa\\HospiEnCasa_1.App.Console_1\\HospiEnCasa_1.App.Console_1.csproj",
         "projectName": "HospiEnCasa_1.App.Console_1",
-        "projectPath": "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Console_1\\HospiEnCasa_1.App.Console_1.csproj",
+        "projectPath": "D:\\clone\\Hospitalizacion-en-casa\\HospiEnCasa_1.App.Console_1\\HospiEnCasa_1.App.Console_1.csproj",
         "packagesPath": "C:\\Users\\aledroza chela\\.nuget\\packages\\",
-        "outputPath": "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Console_1\\obj\\",
+        "outputPath": "D:\\clone\\Hospitalizacion-en-casa\\HospiEnCasa_1.App.Console_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aledroza chela\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -25,11 +25,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Dominio_1\\HospiEnCasa_1.App.Dominio_1.csproj": {
-                "projectPath": "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Dominio_1\\HospiEnCasa_1.App.Dominio_1.csproj"
+              "D:\\clone\\Hospitalizacion-en-casa\\HospiEnCasa_1.App.Dominio_1\\HospiEnCasa_1.App.Dominio_1.csproj": {
+                "projectPath": "D:\\clone\\Hospitalizacion-en-casa\\HospiEnCasa_1.App.Dominio_1\\HospiEnCasa_1.App.Dominio_1.csproj"
               },
-              "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Persistencia_1\\HospiEnCasa_1.App.Persistencia_1.csproj": {
-                "projectPath": "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Persistencia_1\\HospiEnCasa_1.App.Persistencia_1.csproj"
+              "D:\\clone\\Hospitalizacion-en-casa\\HospiEnCasa_1.App.Persistencia_1\\HospiEnCasa_1.App.Persistencia_1.csproj": {
+                "projectPath": "D:\\clone\\Hospitalizacion-en-casa\\HospiEnCasa_1.App.Persistencia_1\\HospiEnCasa_1.App.Persistencia_1.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Dominio_1\\HospiEnCasa_1.App.Dominio_1.csproj": {
+    "D:\\clone\\Hospitalizacion-en-casa\\HospiEnCasa_1.App.Dominio_1\\HospiEnCasa_1.App.Dominio_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Dominio_1\\HospiEnCasa_1.App.Dominio_1.csproj",
+        "projectUniqueName": "D:\\clone\\Hospitalizacion-en-casa\\HospiEnCasa_1.App.Dominio_1\\HospiEnCasa_1.App.Dominio_1.csproj",
         "projectName": "HospiEnCasa_1.App.Dominio_1",
-        "projectPath": "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Dominio_1\\HospiEnCasa_1.App.Dominio_1.csproj",
+        "projectPath": "D:\\clone\\Hospitalizacion-en-casa\\HospiEnCasa_1.App.Dominio_1\\HospiEnCasa_1.App.Dominio_1.csproj",
         "packagesPath": "C:\\Users\\aledroza chela\\.nuget\\packages\\",
-        "outputPath": "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Dominio_1\\obj\\",
+        "outputPath": "D:\\clone\\Hospitalizacion-en-casa\\HospiEnCasa_1.App.Dominio_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aledroza chela\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Persistencia_1\\HospiEnCasa_1.App.Persistencia_1.csproj": {
+    "D:\\clone\\Hospitalizacion-en-casa\\HospiEnCasa_1.App.Persistencia_1\\HospiEnCasa_1.App.Persistencia_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Persistencia_1\\HospiEnCasa_1.App.Persistencia_1.csproj",
+        "projectUniqueName": "D:\\clone\\Hospitalizacion-en-casa\\HospiEnCasa_1.App.Persistencia_1\\HospiEnCasa_1.App.Persistencia_1.csproj",
         "projectName": "HospiEnCasa_1.App.Persistencia_1",
-        "projectPath": "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Persistencia_1\\HospiEnCasa_1.App.Persistencia_1.csproj",
+        "projectPath": "D:\\clone\\Hospitalizacion-en-casa\\HospiEnCasa_1.App.Persistencia_1\\HospiEnCasa_1.App.Persistencia_1.csproj",
         "packagesPath": "C:\\Users\\aledroza chela\\.nuget\\packages\\",
-        "outputPath": "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Persistencia_1\\obj\\",
+        "outputPath": "D:\\clone\\Hospitalizacion-en-casa\\HospiEnCasa_1.App.Persistencia_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aledroza chela\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -143,8 +143,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Dominio_1\\HospiEnCasa_1.App.Dominio_1.csproj": {
-                "projectPath": "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Dominio_1\\HospiEnCasa_1.App.Dominio_1.csproj"
+              "D:\\clone\\Hospitalizacion-en-casa\\HospiEnCasa_1.App.Dominio_1\\HospiEnCasa_1.App.Dominio_1.csproj": {
+                "projectPath": "D:\\clone\\Hospitalizacion-en-casa\\HospiEnCasa_1.App.Dominio_1\\HospiEnCasa_1.App.Dominio_1.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S5kMsfGFFs0Pomz/AXU+6Ua3HjcOxy+/pmz94qpV9ppwsUj5M7pdXII+XiKT/cipnB5hBj9WBVOyZOA9r31O8w==",
+  "dgSpecHash": "GtI+M/nK9cKRMGEb5prnJZF2yhOO2FJthEkdg0CDVw0wJ7y7K/cxLAngTtwtAmuAnE1nhg0TdD8vegiOIG8X2Q==",
   "success": true,
-  "projectFilePath": "C:\\Hospitalizacion_1\\HospiEnCasa_1.App\\HospiEnCasa_1.App.Console_1\\HospiEnCasa_1.App.Console_1.csproj",
+  "projectFilePath": "D:\\clone\\Hospitalizacion-en-casa\\HospiEnCasa_1.App.Console_1\\HospiEnCasa_1.App.Console_1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aledroza chela\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\aledroza chela\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

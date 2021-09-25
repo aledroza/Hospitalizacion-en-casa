@@ -7,3 +7,12 @@ C:\Hospitalizacion_1\HospiEnCasa_1.App\HospiEnCasa_1.App.Dominio_1\obj\Debug\net
 C:\Hospitalizacion_1\HospiEnCasa_1.App\HospiEnCasa_1.App.Dominio_1\obj\Debug\netstandard2.0\HospiEnCasa_1.App.Dominio_1.csproj.CoreCompileInputs.cache
 C:\Hospitalizacion_1\HospiEnCasa_1.App\HospiEnCasa_1.App.Dominio_1\obj\Debug\netstandard2.0\HospiEnCasa_1.App.Dominio_1.dll
 C:\Hospitalizacion_1\HospiEnCasa_1.App\HospiEnCasa_1.App.Dominio_1\obj\Debug\netstandard2.0\HospiEnCasa_1.App.Dominio_1.pdb
+D:\clone\Hospitalizacion-en-casa\HospiEnCasa_1.App.Dominio_1\bin\Debug\netstandard2.0\HospiEnCasa_1.App.Dominio_1.deps.json
+D:\clone\Hospitalizacion-en-casa\HospiEnCasa_1.App.Dominio_1\bin\Debug\netstandard2.0\HospiEnCasa_1.App.Dominio_1.dll
+D:\clone\Hospitalizacion-en-casa\HospiEnCasa_1.App.Dominio_1\bin\Debug\netstandard2.0\HospiEnCasa_1.App.Dominio_1.pdb
+D:\clone\Hospitalizacion-en-casa\HospiEnCasa_1.App.Dominio_1\obj\Debug\netstandard2.0\HospiEnCasa_1.App.Dominio_1.csprojAssemblyReference.cache
+D:\clone\Hospitalizacion-en-casa\HospiEnCasa_1.App.Dominio_1\obj\Debug\netstandard2.0\HospiEnCasa_1.App.Dominio_1.AssemblyInfoInputs.cache
+D:\clone\Hospitalizacion-en-casa\HospiEnCasa_1.App.Dominio_1\obj\Debug\netstandard2.0\HospiEnCasa_1.App.Dominio_1.AssemblyInfo.cs
+D:\clone\Hospitalizacion-en-casa\HospiEnCasa_1.App.Dominio_1\obj\Debug\netstandard2.0\HospiEnCasa_1.App.Dominio_1.csproj.CoreCompileInputs.cache
+D:\clone\Hospitalizacion-en-casa\HospiEnCasa_1.App.Dominio_1\obj\Debug\netstandard2.0\HospiEnCasa_1.App.Dominio_1.dll
+D:\clone\Hospitalizacion-en-casa\HospiEnCasa_1.App.Dominio_1\obj\Debug\netstandard2.0\HospiEnCasa_1.App.Dominio_1.pdb
