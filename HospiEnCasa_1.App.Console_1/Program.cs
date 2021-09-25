@@ -16,6 +16,7 @@ namespace HospiEnCasa_1.App.Console_1
 
         private static void AddPersona()
         {
+        ///<summary>Interaccion con la base de datos</summary>
             var persona =new Persona{
                 Nombre = "Alexis",
                 Apellidos = "Pedroza",
